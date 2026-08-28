@@ -1,6 +1,0 @@
-{
-  "name": "Multi-Agent AI Interview Panel Simulator",
-  "description": "Multi-agent interview panel simulator with independent persona reviews, interactive cross-examination debate, observable stance shifts, and evidence-grounded decision engine.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
